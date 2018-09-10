@@ -1,1 +1,2 @@
-# Seminar97
+# Thesis/Seminar Template
+A LaTeX template for typesetting theses in Persian
